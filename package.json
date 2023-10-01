@@ -1,0 +1,23 @@
+{
+  "name": "resume",
+  "version": "0.0.1",
+  "description": "Version control my resume, scripted and built with Typst",
+  "main": "index.js",
+  "scripts": {
+    "compile": "typst compile resume.typ"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:krab7191/resume.git"
+  },
+  "keywords": [
+    "Resume",
+    "Typst"
+  ],
+  "author": "Karsten Rabe <https://github.com/krab7191>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krab7191/resume/issues"
+  },
+  "homepage": "https://github.com/krab7191/resume#readme"
+}
